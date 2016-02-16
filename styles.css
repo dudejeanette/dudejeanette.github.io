@@ -1,0 +1,38 @@
+
+#box1{
+	background-color: lightgrey;
+	text-align: center;
+}
+#box2{
+	background-color: PowderBlue;
+	text-align: center;
+}
+#box3{
+	background-color: Pink;
+	text-align: center;
+}
+
+#content{
+	display: flex;
+
+}
+
+.box{
+	flex:1;
+}
+
+.lead {
+	color: green;
+	font-size: 25px;
+	margin: 20px;
+
+}
+
+img{
+	height: 200px;
+	width: 200px;
+}
+
+.col-4 {
+	text-align: center;
+}
